@@ -75,7 +75,7 @@ public class WordPuzzle {
     }
 
     public static void main(String[] args) {
-        String fileName = "/home/deathcamel57/IdeaProjects1/PayCalc/src/words.txt";
+        String fileName = "/home/deathcamel57/Documents/dev/WordPuzzle/src/words.txt";
 
         // Get random word
         String word = getWord(fileName);
